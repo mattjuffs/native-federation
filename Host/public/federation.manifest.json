@@ -1,0 +1,5 @@
+{
+	"Remote01": "http://localhost:4201/remoteEntry.json",
+	"Remote02": "http://localhost:4202/remoteEntry.json",
+	"WebComponent": "http://localhost:4203/remoteEntry.json"
+}
